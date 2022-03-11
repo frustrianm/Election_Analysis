@@ -1,23 +1,24 @@
-# Kickstarting with Excel
+# PyPoll with Python - FRM's Tec Data Bootcamp Challenge 3
 
-## Overview of Project
+## Overview of Election Audit
 
 ### Purpose
+In this project  
 
-## Analysis and Challenges
+## Election-Audit Results
+- How many votes were cast in this congressional election?
 
-### Analysis of Outcomes Based on Launch Date
+- Provide a breakdown of the number of votes and the percentage of total votes for each country in the precinct.
 
-### Analysis of Outcomes Based on Goals
+- Which county had the largest number of votes?
 
-### Challenges and Difficulties Encountered
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-## Results
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Election-Audit Summary
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+- Business proposal for the election commission
+  - Example 1
+  
+  - Example 2   

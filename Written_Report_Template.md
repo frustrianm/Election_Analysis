@@ -29,5 +29,14 @@ The analysis of the election show that:
   - Candidate 2, Diana DeGette, who received 73.80% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+After all the analysis performed, the Board of Elections asked us to get 3 more insights from the voting data regarding:
+  - The voter turnout for each county
+  - The percentage of votes from each county out of the total count
+  - The county with the highest turnout
+
+To achieve this, our results had to look like the following:
+![Terminal Screenshot](https://user-images.githubusercontent.com/96660344/158031861-785bae1e-a00e-434b-a1ee-5858856742f4.png)
 
 ## Challenge Summary
+By an astonishing and almost 3/4 of the total voting, the candidate 2 named Diana DeGette found herself as the winner of the voting which took place in Colorado.
+![Txt File](https://user-images.githubusercontent.com/96660344/158031858-e07bed50-8232-4408-a851-2d386c7c7a3c.png)
